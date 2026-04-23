@@ -1,6 +1,5 @@
 # AI-Powered-Policy-Analysis-Scenario-Simulation-Tool-
 
-🤖 AI-Powered Policy Analysis & Scenario Simulation Tool
 
 📌 Overview
 
