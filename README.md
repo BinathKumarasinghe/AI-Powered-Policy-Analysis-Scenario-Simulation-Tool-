@@ -40,18 +40,12 @@ Extracts key policy terms automatically
 
 4. 🎯 Scenario-Based Policy Adaptation
 
-Generates customized policy outputs based on real-world contexts:
-
-Rural (low connectivity, accessibility)
+Generates customized policy outputs based on real-world contexts:Rural (low connectivity, accessibility)
 Youth (innovation, startups)
 Elderly (inclusivity, accessibility)
 Crisis (emergency response)
 Investment (FDI, global alignment)
-Education / Healthcare
-
-Each scenario produces:
-
-Priority focus
+Education / Healthcare Each scenario produces: Priority focus
 Objectives
 Policy statements
 Implementation notes
