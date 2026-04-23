@@ -103,9 +103,7 @@ Real-time policy comparison engine
 
 🎯 Impact
 
-This system can support:
-
-Government decision-making
+This system can support:Government decision-making
 Policy analysis teams
 Researchers & analysts
 Public sector innovation
