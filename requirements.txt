@@ -1,0 +1,7 @@
+flask
+werkzeug
+pdfplumber
+PyPDF2
+python-docx
+openai
+anthropic
