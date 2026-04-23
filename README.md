@@ -3,11 +3,7 @@
 
 📌 Overview
 
-This project is an intelligent web-based system that transforms complex policy documents into actionable insights and adaptive strategies.
-
-#Using the National Digital Government Policy of Sri Lanka as a case study, the application:
-
-Extracts and cleans raw document data
+This project is an intelligent web-based system that transforms complex policy documents into actionable insights and adaptive strategies.using the National Digital Government Policy of Sri Lanka as a case study, the application: Extracts and cleans raw document data
 Generates structured summaries
 Identifies key policy goals, measures, and principles
 Produces scenario-based policy adaptations using AI
@@ -34,6 +30,7 @@ Removes noise (headers, formatting artifacts)
 Fixes broken text (hyphenation, encoding issues)
 
 3. 📊 Smart Summarization
+   
 Uses TF-IDF-based extractive summarization
 Categorizes content into:
 Goals
@@ -61,9 +58,7 @@ Implementation notes
 
 📈 Example Use Case
 
-Using Sri Lanka’s Digital Government Policy, the system can:
-
-Identify that:
+Using Sri Lanka’s Digital Government Policy, the system canIdentify that:
 Citizen-centric governance is a core principle
 Digital inclusion and accessibility are key goals
 Transparency and efficiency drive policy direction
@@ -87,13 +82,6 @@ Strong emphasis on data protection & transparency
 Push for interoperability and digital identity (SLUDI)
 Focus on inclusive and accessible digital services
 
-📦 Project Structure
-
-/app.py
-/uploads
-/static
-/config.py
-
 💡 Future Improvements
 
 Add abstractive summarization (LLM-based)
@@ -103,7 +91,7 @@ Real-time policy comparison engine
 
 🎯 Impact
 
-This system can support:Government decision-making
+This system can support : Government decision-making
 Policy analysis teams
 Researchers & analysts
 Public sector innovation
